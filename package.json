@@ -7,7 +7,8 @@
     "lodash": "^4.17.19"
   },
   "devDependencies": {
-    "path-parse": "^1.0.6"
+    "path-parse": "^1.0.6",
+    "underscore": "^1.10.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
